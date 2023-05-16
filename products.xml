@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <products>
+        <product>
+            <id>1</id>
+            <title>iPhone 9</title>
+            <description>An apple mobile which is nothing like apple</description>
+            <price>549</price>
+            <rating>4.69</rating>
+            <stock>94</stock>
+            <brand>Apple</brand>
+        </product>
+        <product>
+            <id>2</id>
+            <title>Samsung Universe 9</title>
+            <description>Samsung&#x27;s new variant which goes beyond Galaxy to the Universe</description>
+            <price>1249</price>
+            <rating>4.09</rating>
+            <stock>36</stock>
+            <brand>Samsung</brand>
+        </product>
+        <product>
+            <id>3</id>
+            <title>iPhone X</title>
+            <description>SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...</description>
+            <price>899</price>
+            <rating>4.44</rating>
+            <stock>34</stock>
+            <brand>Apple</brand>
+        </product>
+        <product>
+            <id>4</id>
+            <title>OPPOF19</title>
+            <description>OPPO F19 is officially announced on April 2021.</description>
+            <price>280</price>
+            <rating>4.3</rating>
+            <stock>123</stock>
+            <brand>OPPO</brand>
+        </product>
+        <product>
+            <id>5</id>
+            <title>Huawei P30</title>
+            <description>Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.</description>
+            <price>499</price>
+            <rating>4.09</rating>
+            <stock>32</stock>
+            <brand>Huawei</brand>
+        </product>
+    </products>
+</root>
